@@ -37,5 +37,13 @@ const SomeExercizesInHome = () => {
         </div>
      );
 }
+
+
+
+
+
+  // const title = "Welcome to the new blog";
+  // const likes =50;
+  // const link= "http://www.google.com";
  
 export default Home;
