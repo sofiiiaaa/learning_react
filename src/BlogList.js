@@ -1,4 +1,4 @@
-const BlogList= ({blogs, title,  }) => {
+const BlogList= ({blogs, title }) => {
     
    
  
@@ -15,4 +15,5 @@ const BlogList= ({blogs, title,  }) => {
       );
 }
  
+
 export default BlogList;
