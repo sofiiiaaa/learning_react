@@ -1,7 +1,7 @@
 import {useState, useEffect} from "react";
 
 const useFetch = (url) => {
-    const [data, setData] = useState (null); /* I cange blogs and setBlogs to make it reusable, for exemple for tags or categories*/ 
+    const [data, setData] = useState (null); /* I change blogs and setBlogs to make it reusable, for exemple for tags or categories*/ 
     const [isLoading, setIsLoading] = useState (true); 
     const [error, setError] = useState(null);
 
